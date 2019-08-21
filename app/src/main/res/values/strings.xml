@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">homework2</string>
+    <string name="logo_mytodo" translatable="false">My ToDo</string>
+    <string name="img_todo" translatable="false">img_todo</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_to_your_account">Login To Your Account</string>
+    <string name="don_t_have_an_account_register">Don\'t have an account? Register</string>
+
+
+</resources>
